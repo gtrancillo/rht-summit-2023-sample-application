@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://www.hdnicewallpapers.com/Walls/Normal/Cat/Beautiful_Cat_Imge_Download.jpg"
     ]
 kind: ConfigMap
 metadata:
